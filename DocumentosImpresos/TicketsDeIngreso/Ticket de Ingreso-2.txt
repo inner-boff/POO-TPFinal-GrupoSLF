@@ -1,0 +1,11 @@
+*** Ticket de Ingreso ***
+Codigo identificador:
+2
+Fecha y hora de entrada:
+2/7/2022 14:29:49
+Patente del vehiculo:
+BBB
+Tipo de vehiculo:
+moto
+Tarifa por hora:
+100

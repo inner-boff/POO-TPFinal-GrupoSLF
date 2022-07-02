@@ -1,0 +1,11 @@
+*** Ticket de Ingreso ***
+Codigo identificador:
+1
+Fecha y hora de entrada:
+2/7/2022 14:29:41
+Patente del vehiculo:
+AAAA
+Tipo de vehiculo:
+auto
+Tarifa por hora:
+200

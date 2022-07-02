@@ -1,0 +1,11 @@
+*** Ticket de Ingreso ***
+Codigo identificador:
+3
+Fecha y hora de entrada:
+2/7/2022 14:29:54
+Patente del vehiculo:
+BBB
+Tipo de vehiculo:
+camioneta
+Tarifa por hora:
+250

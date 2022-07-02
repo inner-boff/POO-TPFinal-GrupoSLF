@@ -1,0 +1,12 @@
+*** Comprobante de Pago ***
+Codigo identificador :
+3-11
+Fecha y hora de salida:
+2/7/2022 14:37:08
+Estadía en horas:
+1
+Tarifa Aplicada:
+250
+Importe a pagar:
+250
+-- Gracias por elegirnos --

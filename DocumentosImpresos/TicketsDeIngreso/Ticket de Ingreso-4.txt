@@ -1,0 +1,11 @@
+*** Ticket de Ingreso ***
+Codigo identificador:
+4
+Fecha y hora de entrada:
+2/7/2022 14:29:59
+Patente del vehiculo:
+CCC
+Tipo de vehiculo:
+camioneta
+Tarifa por hora:
+250
